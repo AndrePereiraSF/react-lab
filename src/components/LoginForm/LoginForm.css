@@ -6,11 +6,11 @@
 }
 
 #loginForm [type=text] {
-    width: 300px;
+    width: 270px;
     margin-bottom: 45px;
 }
 
 #loginForm [type=password] {
-    width: 300px;
+    width: 270px;
     margin-bottom: 45px;
 }

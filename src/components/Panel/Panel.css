@@ -9,11 +9,6 @@
     transition: all 0.4s;
 }
 
-#loginPanel:hover {
-    box-shadow: 5px 5px 8px #000;
-    background: #090C08;
-}
-
 #loginPanel #title {
     padding-top: 30px;
     padding-left: 40px;

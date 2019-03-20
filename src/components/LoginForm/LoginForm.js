@@ -32,7 +32,7 @@ const LoginForm = () => (
             <label for="exampleInputPassword1">Password</label>
             <input type="password" class="form-control" id="password" placeholder="Password" />
         </div>
-        <Link type="submit" class="btn btn-success d-block" onClick={auth} to='/login'>Login</Link>
+        <Link class="btn btn-success d-block" onClick={auth} to='/login'>Login</Link>
     </form>
 )
 

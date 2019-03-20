@@ -13,7 +13,7 @@ const Logged = () => (
     <div id="logged">
     <p>Hello, { sessionStorage.getItem('user') }!</p>
     <p>This is your dashboard, and now you're logged in. Here you can do absolutely nothing, enjoy it! :D</p>
-    <Link type="submit" class="btn btn-danger d-block mt-5" onClick={logout} to='/'>Logout</Link>
+    <Link class="btn btn-danger d-block mt-5" onClick={logout} to='/'>Logout</Link>
     </div>
 )
 

@@ -10,14 +10,10 @@ header#main-header {
     align-items: center;
     transition: all 0.6s;
 }
-
-header#main-header:hover{
-    background: #090C08;
-}
-
 li:hover{
     background-color: #090C08;
 }
+
 ul {
     list-style-type: none;
     margin: 0;

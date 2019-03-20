@@ -30,3 +30,7 @@ ul {
     padding: 16px 16px;
     text-decoration: none;
   }
+#logo{
+    position: relative;
+    margin-right: 1150px;
+}

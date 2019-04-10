@@ -5,7 +5,7 @@ import './Header.css';
 const Header = () => (
 	<header id="main-header">
 		<ul id="logo">
-			<h4 id="stalebu">Stalebu</h4>
+			<h4 id="stalebu">React Lab</h4>
 		</ul>
 		<ul>
 			<li>Inicio</li>
